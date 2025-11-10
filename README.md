@@ -1,115 +1,142 @@
-🚀 Bridgelabz-2415500271-Training
-📒 Java Learning Log
-🗓️ August 11–13, 2025 — Getting Started with Git & Java
-🛠️ Set up Git Bash and learned how to use it for version control
+# 🚀 Bridgelabz-2415500271-Training  
+## 📒 Java Learning Log
 
-🔎 Understood the difference between Git, Git Bash, and GitHub
+---
 
-⌨️ Practiced basic Git commands (init, add, commit, push, clone, etc.)
+## 📆 Timeline Overview
 
-📋 Learned about best practices for using Git and maintaining repositories
+| Dates             | Topics Covered                    | Highlights & Skills                |
+|-------------------|-----------------------------------|------------------------------------|
+| Aug 11–13, 2025   | Git Bash, Git & GitHub Basics     | 🛠️ Version Control, ⚡ Git Commands, 💡 Java Foundation |
+| Aug 18–20, 2025   | Java Basics, Syntax, Data Types   | 🔠 Data Types, 🏗️ Structure, 🖥️ I/O Practice |
+| Aug 25–27, 2025   | Control Flow, Arrays              | 🔄 Flow Statements, 🧩 Arrays, 🧮 Matrix Ops |
+| Sep 1–3, 2025     | Edge Cases, Methods, Strings      | ⚠️ Boundaries, 🛠️ Methods, ✨ Strings |
+| Sep 8–10, 2025    | OOP Concepts, Constructors        | 🏛️ Encapsulation, 🏗️ Constructors, 🔐 Modifiers |
+| Sep 15–17, 2025   | Advanced OOP, Polymorphism        | 🧩 Interfaces, 🔄 Overriding, 🔀 Polymorphism |
+| Sep 22–24, 2025   | Scenario Problems, Practical OOP  | 💼 Real Examples, 🛠️ Modular Java, 🧪 Hands-On |
+| Oct 13–15, 2025   | Interfaces & Lambdas              | 🧩 Functional, ⚡ Lambdas, 🛠️ Interface Use |
+| Oct 27–29, 2025   | Packages, Exceptions, Wrappers    | 📦 Packages, 🚨 Exceptions, 🎁 Wrappers |
+| Nov 3–5, 2025     | Generics, Collections, JDBC       | 🏷️ Generics, 📚 Collections, 💽 Database |
 
-💡 Solved several basic Java problems to strengthen foundational logic
+---
 
-🗓️ August 18–20, 2025 — Java Programming Fundamentals
-🚦 Started learning Java programming fundamentals
+## 🛠️ Git, Git Bash, & GitHub
 
-🔤 Studied the main elements of Java programming such as syntax, keywords, data types, and variables
+- Version control setup with *Git Bash*
+- Difference between *Git*, **Git Bash**, and **GitHub**
+- **Core Commands Table**
 
-🏗️ Understood Java structure including main() method, statements, and basic program flow
+| Command      | Purpose         | Emoji |
+|--------------|-----------------|-------|
+| `git init`   | Initialize repo | 🆕    |
+| `git add`    | Stage changes   | ➕    |
+| `git commit` | Save changes    | 💾    |
+| `git push`   | Upload changes  | 🚀    |
+| `git clone`  | Download repo   | 📦    |
 
-🖥️ Practiced simple input/output programs and built familiarity with the Java development environment
+- Best practices for commits and maintenance
+- Solved basic Java problems to strengthen logic
 
-🗓️ August 25–27, 2025 — Control Flow and Arrays
-🔄 Learned about control flow statements (if, else, switch, while, for, do-while loops)
+---
 
-🧩 Understood the importance of decision-making and iteration in Java
+## 🔠 Java Fundamentals & Structure
 
-📚 Studied arrays, including 1D and 2D arrays: their declaration, initialization, and traversal
+- Syntax, keywords, and core data types (`int`, `double`, `char`, `boolean`)
+- Understanding `main()` method and Java program flow
+- Input/Output basics
 
-🧮 Implemented programs using nested loops for matrix operations and array-based computations
+| Task        | Code Example              | Emoji |
+|-------------|--------------------------|-------|
+| Print       | `System.out.println()`    | 🖨️    |
+| Input       | `Scanner input = ...`     | 🎤    |
 
-🗓️ September 1–3, 2025 — Methods & Strings
-⚠️ Explored edge cases and how to handle boundary conditions in Java programs
+---
 
-🔧 Studied methods — definition, declaration, parameters, and return types
+## 🔄 Control Flow & Arrays
 
-🏗️ Practiced writing and calling user-defined methods for modular programming
+- Flow: `if`, `else`, `switch`, `while`, `for`, `do-while`
+- Arrays: 1D & 2D, declaration, initialization, traversal
 
-🧵 Studied Strings in depth — creation, manipulation, and immutability
+| Array Type | Declaration                  | Emoji |
+|------------|-----------------------------|-------|
+| 1D         | `int[] arr = {1, 2, 3}`     | 🚦    |
+| 2D         | `int[][] mat = {{1,2},{3,4}}` | 🗺️   |
 
-✨ Learned about StringBuffer and StringBuilder classes for efficient string operations
+- Used nested loops for matrix operations and array computations
 
-🚀 Compared performance and use-cases of String, StringBuffer, and StringBuilder
+---
 
-🗓️ September 8–10, 2025 — OOP Basics
-🏛️ Introduced to Object-Oriented Programming (OOPs) concepts — encapsulation, inheritance, polymorphism, and abstraction
+## ✨ Methods & Strings
 
-🏗️ Studied Java constructors — default, parameterized, and copy constructors
+- Edge cases, methods (definition, parameters, return)
+- Modular programming via user-defined methods
+- Strings: creation, manipulation, immutability
 
-🔁 Understood the difference between instance variables and class (static) variables
+| Type           | Editable | Relative Speed | Emoji |
+|----------------|----------|---------------|-------|
+| `String`       | ❌       | Slowest       | 🐢    |
+| `StringBuffer` | ✅       | Fast          | 🚙    |
+| `StringBuilder`| ✅       | Fastest       | 🏎️    |
 
-🔐 Learned about access modifiers (public, private, protected, and default) and their scope
+---
 
-🌳 Explored inheritance and hierarchical class relationships in Java
+## 🏛️ Object-Oriented Programming (OOP)
 
-🗓️ September 15–17, 2025 — Advanced OOP Concepts
-🧩 Studied advanced OOPs concepts: Encapsulation, Interfaces, Abstract Classes, and Polymorphism
+- Principles: encapsulation, inheritance, polymorphism, abstraction
+- Constructors: default, parameterized, copy
+- Variables: instance vs. static
+- Access modifiers: public, private, protected, default
+- Inheritance: hierarchical relations
 
-🔀 Explored Polymorphism in depth with examples
+---
 
-🔄 Practiced Method Overriding and Method Overloading (compile-time and runtime polymorphism)
+## 🧩 Advanced OOP & Interfaces
 
-⬆️⬇️ Learned about Upcasting and Downcasting, including their practical use cases
+- Concepts deep dive: interfaces, abstract classes, method overriding & overloading, upcasting/downcasting
 
-🧑‍💻 Introduced to Abstract Classes and Abstract Methods, understanding when and how to use them
+| Concept           | Use Case       | Emoji |
+|-------------------|---------------|-------|
+| Interface         | Abstraction    | 🧩    |
+| Abstract Class    | Blueprint      | 🏗️    |
+| Overriding        | Runtime choice | 🎯    |
+| Overloading       | Flexibility    | 🔁    |
+| Up/Downcasting    | Adaptability   | ⬆️⬇️  |
 
-🪢 Combined interfaces and abstraction for conceptual strength
+- Combined interfaces and abstraction for advanced design
 
-🗓️ September 22–24, 2025 — Applied OOP & Real-Life Scenarios
-💼 Began solving real-life scenario-based Java problems
+---
 
-🛠️ Applied OOP concepts (inheritance, polymorphism, abstraction, encapsulation) to practical examples
+## 📦 Packages, 🚨 Exceptions, & 🎁 Wrapper Classes
 
-🧪 Strengthened OOP understanding through hands-on implementation
+- Code organization with packages
+- Exception handling: try, catch, finally, throw, throws
+- Checked vs. unchecked exceptions; custom exceptions
+- Wrapper classes, autoboxing/unboxing
 
-📦 Focused on writing structured, reusable, and modular Java code for real-world use cases
+---
 
-🗓️ October 13–15, 2025 — Interfaces & Lambdas
-🧩 Finished Interfaces in Java
+## 📚 Generics, Collections & 💽 JDBC
 
-💭 Learned how to define and implement interfaces effectively
+- Generics for type-safe, reusable code
+- Core Collections interfaces (`List`, `Set`, `Queue`, `Map`)
 
-🛠️ Explored Functional Interfaces, Default Methods, Static Methods, and Marker Interfaces with real-world examples
+| Interface  | Example        | Emoji |
+|------------|---------------|-------|
+| `List`     | `ArrayList`    | 📃    |
+| `Set`      | `HashSet`      | 🗂️    |
+| `Queue`    | `LinkedList`   | 🕒    |
+| `Map`      | `HashMap`      | 🗺️    |
 
-⚡ Understood and used lambda expressions for concise code
+- Map implementations: *HashMap*, *TreeMap*
+- Practiced with *ArrayList*, *HashSet*, *HashMap*
+- JDBC for connecting Java and databases; practiced CRUD with MySQL
 
-🖇️ Practiced implementing interfaces with lambdas to optimize Java code
+| JDBC Class      | Role                | Emoji |
+|-----------------|---------------------|-------|
+| `DriverManager` | Connection management | 🔌    |
+| `Connection`    | DB session            | 🌀    |
+| `Statement`     | SQL execution         | 📥    |
+| `ResultSet`     | Data retrieval        | 📊    |
 
-🗓️ October 27–29, 2025 — Packages, Exception Handling, Wrapper Classes
-📦 Studied Packages — purpose, creation, importing, and class organization
 
-🚨 Learned about Exception Handling (try, catch, finally, throw, throws)
 
-⚖️ Understood checked vs. unchecked exceptions, and created custom exceptions
-
-🎁 Explored Wrapper Classes for converting primitive data types to objects (autoboxing/unboxing)
-
-🏗️ Integrated packages, exception handling, and wrapper classes into practical programs
-
-🗓️ November 3–5, 2025 — Generics, Collections, and JDBC
-🏷️ Studied Java Generics for type-safe, reusable code
-
-📚 Explored the Collections Framework, including List, Set, and Queue
-
-🗺️ Learned about Map and its implementations (HashMap, TreeMap)
-
-🧑‍💻 Practiced with ArrayList, HashSet, and HashMap
-
-✅ Understood Generics in Collections for type safety
-
-💽 Learned JDBC (Java Database Connectivity) concepts & architecture—connecting Java with databases
-
-📝 Practiced CRUD operations (Create, Read, Update, Delete) with JDBC and MySQL
-
-🔌 Understood the role of DriverManager, Connection, Statement, and ResultSet
